@@ -19,6 +19,6 @@ var lunches = [
     "Saigon",
     "Burger Supreme",
     "Cremery",
-    "SLAB Pizza",
+    "SLab Pizza",
     "Chubby's Cafe"
 ]
