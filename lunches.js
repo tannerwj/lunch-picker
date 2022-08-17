@@ -1,5 +1,5 @@
 var lunches = [
-    "Mexal",
+    "El Mexsal",
     "Two Jacks",
     "Red Robin",
     "Panda Express",
